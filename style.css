@@ -4,7 +4,8 @@ body{
 }
 
 #logo{
-	width: 200px;
+	width: 150px;
+	border-radius: 50%;
 }
 
 .container {
